@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/danii/Desktop/MireaMobileProjectD (1)/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1975" />
+        <entry key="..\:/Users/danii/Desktop/MireaMobileProjectD (1)/app/src/main/res/drawable/side_nav_bar.xml" value="0.1975" />
+        <entry key="..\:/Users/danii/Desktop/MireaMobileProjectD (1)/app/src/main/res/layout/activity_login.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/danii/Desktop/MireaMobileProjectD (1)/app/src/main/res/layout/notes_list.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable/ic_menu_camera.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.189" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/app_bar_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/content_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_add_note_v2.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_audio.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_calculate.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_music_player.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_notes_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/fragment_notes_second.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/note_item_v2.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/layout/notes_list.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/menu/activity_main_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaMobileProjectD/app/src/main/res/menu/main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.211328125" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13828125" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout-w936dp/activity_notes_add.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/activity_apparate.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/activity_datchic.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/content_login.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/content_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_add_note_v2.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_apparate.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_audio.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_blank.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_calculate.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_datchic.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_first.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_gallery.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_home_settings.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_live_data.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_login.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_maps.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_music_player.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_notes_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_notes_second.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_notes_talker.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_notes_update_delete.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_notes_v2.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_photo.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_retrofit.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_scrolling.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_second.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_slideshow.xml" value="0.6" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_stories.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_stories_home.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_web.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/item_retrofit.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/item_stories.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/morder_button.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/nav_header_main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/note_item_v2.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/notes_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/layout/recycle_view.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/menu/main.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/xml/filepaths.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/MireaProject/app/src/main/res/xml/root_preferences.xml" value="0.184375" />
+        <entry key="..\:/Users/nikit/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/ic_menu.xml" value="0.1785" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14666666666666667" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
